@@ -1,2 +1,1 @@
-# Big-Crypto-Game
-JavaScript, TypeScript
+# Presale-Page-Crypto-Games-Agency
